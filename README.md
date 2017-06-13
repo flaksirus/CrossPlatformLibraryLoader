@@ -1,6 +1,6 @@
 # CrossPlatformLibraryLoader
 
-CrossPlatformLibraryLoader is a project which supposed to help load native libraries like .dll .so or .dylib dynamicly in rantime.
+CrossPlatformLibraryLoader is a project which supposed to help load native libraries like .dll .so or .dylib dynamicly in runtime.
 It was writen for dotnet core but it can be used with full framework and mono too.
 
 It has been tested on (x64 only):
