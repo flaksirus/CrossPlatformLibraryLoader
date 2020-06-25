@@ -1,4 +1,5 @@
 # CrossPlatformLibraryLoader
+[![Nuget](https://img.shields.io/nuget/v/CrossPlatformLibraryLoader?color=blue&label=CrossPlatformLibraryLoader)](https://www.nuget.org/packages/CrossPlatformLibraryLoader)
 
 CrossPlatformLibraryLoader is a project which supposed to help load native libraries like .dll .so or .dylib dynamicly in runtime.
 It was writen for dotnet core but it can be used with full framework and mono too.
